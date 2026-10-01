@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Uploaded Files & Receipts
+pms_remarks_files/
+pms_receipts/
+*.zip
+*.log
